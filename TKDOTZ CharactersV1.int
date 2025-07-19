@@ -1,0 +1,4 @@
+[Public]
+Object=(Name=TKDOTZCharactersV1.HogarthMorten,Class=Class,MetaClass=XDOTZCharacters.HumanPawnBase,Description="HogarthMorten")
+Object=(Name=TKDOTZCharactersV1.JohnAnderson,Class=Class,MetaClass=XDOTZCharacters.HumanPawnBase,Description="JohnAnderson")
+Object=(Name=TKDOTZCharactersV1.SergentTravis,Class=Class,MetaClass=XDOTZCharacters.HumanPawnBase,Description="SergentTravis")

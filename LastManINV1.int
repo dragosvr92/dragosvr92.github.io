@@ -1,0 +1,8 @@
+[PUBLIC]
+Object=(Name=LastManINV1.LMPlayerJack,Class=Class,MetaClass=LastManINV1.LMPlayerPawnBase,Description="Jack Slade")
+Object=(Name=LastManINV1.LMPlayerOtis,Class=Class,MetaClass=LastManINV1.LMPlayerPawnBase,Description="Otis")
+Object=(Name=LastManINV1.LMPlayerPeter,Class=Class,MetaClass=LastManINV1.LMPlayerPawnBase,Description="Peter")
+Object=(Name=LastManINV1.LMPlayerRoger,Class=Class,MetaClass=LastManINV1.LMPlayerPawnBase,Description="Roger")
+Object=(Name=LastManINV1.LMPlayerCop,Class=Class,MetaClass=LastManINV1.LMPlayerPawnBase,Description="Police Officer")
+Object=(Name=LastManINV1.LMPlayerSwat,Class=Class,MetaClass=LastManINV1.LMPlayerPawnBase,Description="SWAT Officer")
+Object=(Name=LastManINV1.LMPlayerJohnnyThunder,Class=Class,MetaClass=LastManINV1.LMPlayerPawnBase,Description="Johnny Thunder")
