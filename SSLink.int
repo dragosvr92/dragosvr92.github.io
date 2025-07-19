@@ -1,8 +1,0 @@
-
-[PUBLIC]
-Object=(Name=SSLink.SSLinkLM,Class=Class,MetaClass=LastManINV1.LMPlayerPawnBase,Description="SSLink")
-
-Object=(Name=SSLink.SSLinkIN,Class=Class,MetaClass=TrinInvasionV3.TrinV3PlayerPawnBase,Description="SSLink")
-
-Object=(Name=SSLink.SSLinkDM,Class=Class,MetaClass=XDOTZCharacters.HumanPawnBase,Description="SSLink")
-

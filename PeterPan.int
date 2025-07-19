@@ -1,9 +1,0 @@
-
-[PUBLIC]
-Object=(Name=PeterPan.PeterPanLM,Class=Class,MetaClass=LastManINV1.LMPlayerPawnBase,Description="PeterPan")
-
-Object=(Name=PeterPan.PeterPanIN,Class=Class,MetaClass=TrinInvasionV3.TrinV3PlayerPawnBase,Description="PeterPan")
-
-Object=(Name=PeterPan.PeterPanDM,Class=Class,MetaClass=XDOTZCharacters.HumanPawnBase,Description="PeterPan")
-
-

@@ -1,5 +1,0 @@
-
-[PUBLIC]
-Object=(Name=MVStarWarsCharacters2.BobaFettDM,Class=Class,MetaClass=XDOTZCharacters.HumanPawnBase,Description="BobaFett")
-Object=(Name=MVStarWarsCharacters2.HanSoloDM,Class=Class,MetaClass=XDOTZCharacters.HumanPawnBase,Description="HanSolo")
-Object=(Name=MVStarWarsCharacters2.C3PODM,Class=Class,MetaClass=XDOTZCharacters.HumanPawnBase,Description="C-3PO")

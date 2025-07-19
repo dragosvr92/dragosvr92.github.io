@@ -1,7 +1,0 @@
-
-[PUBLIC]
-Object=(Name=KurtCobain.KurtCobainLM,Class=Class,MetaClass=LastManINV1.LMPlayerPawnBase,Description="KurtCobain")
-
-Object=(Name=KurtCobain.KurtCobainIN,Class=Class,MetaClass=TrinInvasionV3.TrinV3PlayerPawnBase,Description="KurtCobain")
-
-Object=(Name=KurtCobain.KurtCobainDM,Class=Class,MetaClass=XDOTZCharacters.HumanPawnBase,Description="KurtCobain")

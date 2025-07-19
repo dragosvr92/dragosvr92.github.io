@@ -1,5 +1,0 @@
-
-[PUBLIC]
-Object=(Name=StarWarsCharacters2.BobaFettLM,Class=Class,MetaClass=LastManINV1.LMPlayerPawnBase,Description="BobaFett")
-Object=(Name=StarWarsCharacters2.HanSoloLM,Class=Class,MetaClass=LastManINV1.LMPlayerPawnBase,Description="HanSolo")
-Object=(Name=StarWarsCharacters2.C3POLM,Class=Class,MetaClass=LastManINV1.LMPlayerPawnBase,Description="C-3PO")

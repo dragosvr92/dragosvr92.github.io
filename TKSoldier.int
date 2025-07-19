@@ -1,3 +1,0 @@
-[Public]
-Object=(Name=TKSoldier.TKSoldierLMS,Class=Class,MetaClass=XDOTZCharacters.HumanPawnBase,Description="TKSoldier")
-Object=(Name=TKSoldier.TKSoldier,Class=Class,MetaClass=XDOTZCharacters.HumanPawnBase,Description="TKSoldier")

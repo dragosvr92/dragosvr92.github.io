@@ -1,7 +1,0 @@
-
-[PUBLIC]
-Object=(Name=OoTLink.OoTLinkLM,Class=Class,MetaClass=LastManINV1.LMPlayerPawnBase,Description="OoTLink")
-
-Object=(Name=OoTLink.OoTLinkIN,Class=Class,MetaClass=TrinInvasionV3.TrinV3PlayerPawnBase,Description="OoTLink")
-
-Object=(Name=OoTLink.OoTLinkDM,Class=Class,MetaClass=XDOTZCharacters.HumanPawnBase,Description="OoTLink")

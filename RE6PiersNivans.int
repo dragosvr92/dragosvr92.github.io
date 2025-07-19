@@ -1,7 +1,0 @@
-
-[PUBLIC]
-Object=(Name=RE6PiersNivans.RE6PiersNivansLM,Class=Class,MetaClass=LastManINV1.LMPlayerPawnBase,Description="PiersNivans")
-
-Object=(Name=RE6PiersNivans.RE6PiersNivansIN,Class=Class,MetaClass=TrinInvasionV3.TrinV3PlayerPawnBase,Description="PiersNivans")
-
-Object=(Name=RE6PiersNivans.RE6PiersNivansDM,Class=Class,MetaClass=XDOTZCharacters.HumanPawnBase,Description="PiersNivans")
