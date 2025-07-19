@@ -1,0 +1,48 @@
+[Setup]
+LocalProduct=Groove Games\Land Of The Dead
+DefaultFolder=C:\Program Files\Groove Games\Land Of The Dead
+ReadMe=..\Help\ReadMePatch1.txt
+SetupWindowTitle=Land Of The Dead Setup
+AutoplayWindowTitle=Land Of The Dead Options
+ProductURL=http://www.landofthedeadgame.com
+VersionURL=http://www.groovegames.com
+Developer=Brainbox Games
+DeveloperURL=http://www.brainboxgames.com
+Logo=Help\InstallerLogo.bmp
+License=License.int
+
+[General]
+PlayLevelCommand=&Play this Land Of The Dead Chapter
+;OpenLinkCommand=&Open this link
+;InstallModuleCommand=&Install this Unreal module
+;EditLevelCommand=&Edit this Unreal level
+
+;[UnrealGameContentGroup]
+;Caption=Game Content
+;Description=Install this for best performance. If you deselect it, the game content will be loaded from CD during play, degrading performance, but using less hard disk space.
+
+[GameGroup]
+Caption=Land Of The Dead Game Patch
+Description=Installation is required.
+
+;[DirectXGroup]
+;Caption=DirectX 9c
+;Description=Optional Microsoft DirectX 9c drivers for enhanced graphics, sound, and joystick support.
+
+[PlayShortcut]
+Caption=Play Land Of The Dead
+
+[SafeModeShortcut]
+Caption=Land Of The Dead Safe Mode
+
+[DocumentationShortcut]
+Caption=Release Notes
+
+[UninstallShortcut]
+Caption=Uninstall Land Of The Dead
+
+[DesktopShortcut]
+Caption=Play Land Of The Dead
+
+[WebShortcut]
+Caption=Land Of The Dead Website

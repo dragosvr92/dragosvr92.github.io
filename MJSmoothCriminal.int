@@ -1,0 +1,7 @@
+
+[PUBLIC]
+Object=(Name=MJSmoothCriminal.MJSmoothCriminalLM,Class=Class,MetaClass=LastManINV1.LMPlayerPawnBase,Description="MJ Smooth Criminal")
+
+Object=(Name=MJSmoothCriminal.MJSmoothCriminalIN,Class=Class,MetaClass=TrinInvasionV3.TrinV3PlayerPawnBase,Description="MJ Smooth Criminal")
+
+Object=(Name=MJSmoothCriminal.MJSmoothCriminalDM,Class=Class,MetaClass=XDOTZCharacters.HumanPawnBase,Description="MJ Smooth Criminal")

@@ -1,0 +1,9 @@
+
+[PUBLIC]
+Object=(Name=StanLee.StanLeeLM,Class=Class,MetaClass=LastManINV1.LMPlayerPawnBase,Description="StanLee")
+
+Object=(Name=StanLee.StanLeeIN,Class=Class,MetaClass=TrinInvasionV3.TrinV3PlayerPawnBase,Description="StanLee")
+
+Object=(Name=StanLee.StanLeeDM,Class=Class,MetaClass=XDOTZCharacters.HumanPawnBase,Description="StanLee")
+
+

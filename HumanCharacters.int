@@ -1,0 +1,7 @@
+[Public]
+Object=(Name=BINCharCopMale.BINCharCopMale,Class=Class,MetaClass=XDOTZCharacters.HumanPawnBase,Description="BINCharCopMale")
+Object=(Name=BINCharSwatMale.BINCharSwatMale,Class=Class,MetaClass=XDOTZCharacters.HumanPawnBase,Description="BINCharSwatMale")
+
+Object=(Name=TomHuman.TomCollins,Class=Class,MetaClass=XDOTZCharacters.HumanPawnBase,Description="TomCollins")
+
+

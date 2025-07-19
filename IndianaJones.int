@@ -1,0 +1,9 @@
+
+[PUBLIC]
+Object=(Name=IndianaJones.IndianaJonesLM,Class=Class,MetaClass=LastManINV1.LMPlayerPawnBase,Description="IndianaJones")
+
+Object=(Name=IndianaJones.IndianaJonesIN,Class=Class,MetaClass=TrinInvasionV3.TrinV3PlayerPawnBase,Description="IndianaJones")
+
+Object=(Name=IndianaJones.IndianaJonesDM,Class=Class,MetaClass=XDOTZCharacters.HumanPawnBase,Description="IndianaJones")
+
+

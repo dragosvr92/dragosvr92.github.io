@@ -1,0 +1,119 @@
+
+[ChangeLevelTrigger0]
+LoadingMenuText="Loading... Neighbors"
+
+[Counter0]
+
+[DOTZCheckPoint2]
+SaveMessage="Saving..."
+
+[DOTZCheckPoint3]
+SaveMessage="Saving..."
+
+[Key0]
+ActionMessage="Press action to cut the Chain"
+DisabledMessage="The door is locked with a Chain"
+
+[Key2]
+ActionMessage="Press Action to pick up the Bolt Cutters"
+
+[MultiObjective0]
+
+[MultiObjective1]
+ObjectiveText="Get to your neighbor's farm"
+
+[MultiObjective2]
+
+[Radio_2ndChapter0]
+
+[RevolverAmmoPickup0]
+
+[RevolverAmmoPickup1]
+
+[RevolverAmmoPickup2]
+
+[RevolverAmmoPickup3]
+
+[RifleAmmoPickup0]
+
+[RifleAmmoPickup1]
+
+[RifleAmmoPickup10]
+
+[RifleAmmoPickup2]
+
+[RifleAmmoPickup3]
+
+[RifleAmmoPickup4]
+
+[RifleAmmoPickup5]
+
+[RifleAmmoPickup6]
+
+[RifleAmmoPickup7]
+
+[RifleAmmoPickup8]
+
+[RifleAmmoPickup9]
+
+[ShovelPickup0]
+
+[SmallHealth0]
+
+[SmallHealth1]
+
+[SmallHealth10]
+
+[SmallHealth11]
+
+[SmallHealth12]
+
+[SmallHealth14]
+
+[SmallHealth15]
+
+[SmallHealth2]
+
+[SmallHealth3]
+
+[SmallHealth4]
+
+[SmallHealth5]
+
+[SmallHealth6]
+
+[SmallHealth7]
+
+[SmallHealth8]
+
+[SmallHealth9]
+
+[SubtitleSequence0]
+Subtitle=((DisplaySecs=3.500000),(Text="I killed the strangers. It was them or me.",DisplaySecs=6.800000),(Text="The poor devils looked like they fell in a septic tank and festered for a few days.",DisplaySecs=11.500000),(Text="I'd never killed no one before so I sure was real spooked.",DisplaySecs=15.200000),(Text="I decided to head over to my neighbors across the cornfield. ",DisplaySecs=18.820000),(Text="I just didn't feel safe hanging around here all by myself.",DisplaySecs=24.500000))
+
+[SubtitleSequence1]
+Subtitle=((DisplaySecs=1.300000),(Text="We're interrupting our normal broadcast to bring you this important bulletin.",DisplaySecs=4.900000),(Text="We are getting disconcerting reports of mass murder from all over the State. ",DisplaySecs=9.000000),(Text="Details are sketchy at this time. ",DisplaySecs=11.200000),(Text="Although there was no official statement from law enforcement officials,",DisplaySecs=15.000000),(Text="the Police Chief has speculated that rival gangs may be involved... ",DisplaySecs=18.820000),(Text="and, I've just been told we are going to go live to",DisplaySecs=21.600000),(Text="News Radio correspondent Amanda Rogers ",DisplaySecs=23.600000),(Text="who is on site at the Deacon Center Mall.",DisplaySecs=25.900000))
+
+[SubtitleSequence2]
+Subtitle=((Text="Hello Amanda, can you tell us, what's going on there...",DisplaySecs=29.250000),(Text="Amanda, hello... ",DisplaySecs=31.250000),(Text="Well, looks like we're having some",DisplaySecs=32.750000),(Text="technical difficulty getting in touch with Amanda.",DisplaySecs=34.910000),(Text="We'll try again momentarily. ",DisplaySecs=36.500000),(Text="This is obviously some very disturbing news,",DisplaySecs=39.160000),(Text="and we will be staying with this story all day long. ",DisplaySecs=42.000000))
+
+[TriggerObjective0]
+ObjectiveText="Find something to cut the chain"
+
+[TriggerObjective1]
+ObjectiveText="Cut the chain on the neighbors barn door"
+
+[TriggerObjective2]
+ObjectiveText="Clear out the area!"
+
+[TriggerObjective5]
+ObjectiveText="Find your neighbors"
+
+[WoodenDoor0]
+
+[WoodenDoorB5RT0]
+LockedActionMessage="Locked"
+
+[WoodenDoorB5RT5]
+LockedActionMessage="Locked"
+

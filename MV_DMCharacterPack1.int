@@ -1,0 +1,9 @@
+[Public]
+Object=(Name=MV_DMCharacterPack1.KurtCobainDM,Class=Class,MetaClass=XDOTZCharacters.HumanPawnBase,Description="Kurt Cobain")
+Object=(Name=MV_DMCharacterPack1.MJSmoothCriminalDM,Class=Class,MetaClass=XDOTZCharacters.HumanPawnBase,Description="MJ Smooth Criminal")
+Object=(Name=MV_DMCharacterPack1.OoTLinkDM,Class=Class,MetaClass=XDOTZCharacters.HumanPawnBase,Description="OoT Link")
+Object=(Name=MV_DMCharacterPack1.RE1JillValentineDM,Class=Class,MetaClass=XDOTZCharacters.HumanPawnBase,Description="RE1 Jill Valentine")
+Object=(Name=MV_DMCharacterPack1.RE1RebeccaChambersDM,Class=Class,MetaClass=XDOTZCharacters.HumanPawnBase,Description="RE1 Rebecca Chambers")
+Object=(Name=MV_DMCharacterPack1.SpiderManDM,Class=Class,MetaClass=XDOTZCharacters.HumanPawnBase,Description="Spider-Man")
+Object=(Name=MV_DMCharacterPack1.SSLinkDM,Class=Class,MetaClass=XDOTZCharacters.HumanPawnBase,Description="SS Link")
+Object=(Name=MV_DMCharacterPack1.SuperSaiyanGokuDM,Class=Class,MetaClass=XDOTZCharacters.HumanPawnBase,Description="Super Saiyan Goku")

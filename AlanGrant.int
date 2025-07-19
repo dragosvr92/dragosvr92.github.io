@@ -1,0 +1,9 @@
+
+[PUBLIC]
+Object=(Name=AlanGrant.AlanGrantLM,Class=Class,MetaClass=LastManINV1.LMPlayerPawnBase,Description="AlanGrant")
+
+Object=(Name=AlanGrant.AlanGrantIN,Class=Class,MetaClass=TrinInvasionV3.TrinV3PlayerPawnBase,Description="AlanGrant")
+
+Object=(Name=AlanGrant.AlanGrantDM,Class=Class,MetaClass=XDOTZCharacters.HumanPawnBase,Description="AlanGrant")
+
+
