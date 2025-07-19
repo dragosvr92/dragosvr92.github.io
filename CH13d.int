@@ -1,0 +1,50 @@
+
+[ACTION_ClearScreen0]
+
+[ACTION_ClearScreen1]
+
+[ACTION_ClearScreen3]
+
+[ACTION_ClearScreen4]
+
+[ACTION_Killinstigator0]
+ActionString="Damage instigator"
+
+[ACTION_TeleportPlayer0]
+
+[ChangeLevelTrigger3]
+LoadingMenuText="Loading... Menu"
+
+[Counter0]
+
+[Counter2]
+
+[DOTZCheckPoint7]
+SaveMessage="Saving..."
+
+[GlockAmmoPickup0]
+
+[HealthPack0]
+
+[MultiObjective0]
+ObjectiveText="Clear out Fiddlers Green"
+
+[RevolverAmmoPickup0]
+
+[ShotgunAmmoPickup0]
+
+[SubtitleSequence21]
+Subtitle=((Text="Only the rich and famous were welcome",DisplaySecs=11.000000),(Text=" but that's a whole different story. ",DisplaySecs=14.300000),(Text="At times things seemed almost normal but I knew, heck, we all knew. ",DisplaySecs=19.820000),(Text="Beyond the city walls was nothing but death and it was trying to get in.",DisplaySecs=25.715000))
+
+[SubtitleSequence26]
+Subtitle=((DisplaySecs=0.200000),(Text="And that's how I got from the farm to the top of Fiddler's Green.",DisplaySecs=4.500000),(Text="Inside the city life went on. ",DisplaySecs=6.800000),(Text="Kaufman opened his fancy tower.",DisplaySecs=9.000000))
+
+[TriggerObjective0]
+ObjectiveText="Secure penthouse"
+
+[WoodenDoorB5LT0]
+LockedActionMessage="Locked"
+
+[WoodenDoorB5RT0]
+LockedActionMessage="Locked"
+
