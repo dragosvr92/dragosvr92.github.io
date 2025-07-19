@@ -1,0 +1,7 @@
+
+[PUBLIC]
+Object=(Name=SuperSaiyanGoku.SuperSaiyanGokuLM,Class=Class,MetaClass=LastManINV1.LMPlayerPawnBase,Description="SuperSaiyanGoku")
+
+Object=(Name=SuperSaiyanGoku.SuperSaiyanGokuIN,Class=Class,MetaClass=TrinInvasionV3.TrinV3PlayerPawnBase,Description="SuperSaiyanGoku")
+
+Object=(Name=SuperSaiyanGoku.SuperSaiyanGokuDM,Class=Class,MetaClass=XDOTZCharacters.HumanPawnBase,Description="SuperSaiyanGoku")

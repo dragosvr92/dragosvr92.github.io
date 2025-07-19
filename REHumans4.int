@@ -1,0 +1,14 @@
+
+[PUBLIC]
+Object=(Name=REHumans4.RE1EnricoMariniLM,Class=Class,MetaClass=LastManINV1.LMPlayerPawnBase,Description="EnricoMarini")
+Object=(Name=REHumans4.RE1EdwardDeweyLM,Class=Class,MetaClass=LastManINV1.LMPlayerPawnBase,Description="EdwardDewey")
+Object=(Name=REHumans4.RE1KevinDooleyLM,Class=Class,MetaClass=LastManINV1.LMPlayerPawnBase,Description="KevinDooley")
+
+Object=(Name=REHumans4.RE1EnricoMariniIN,Class=Class,MetaClass=TrinInvasionV3.TrinV3PlayerPawnBase,Description="EnricoMarini")
+Object=(Name=REHumans4.RE1EdwardDeweyIN,Class=Class,MetaClass=TrinInvasionV3.TrinV3PlayerPawnBase,Description="EdwardDewey")
+Object=(Name=REHumans4.RE1KevinDooleyIN,Class=Class,MetaClass=TrinInvasionV3.TrinV3PlayerPawnBase,Description="KevinDooley")
+
+Object=(Name=REHumans4.RE1EnricoMariniDM,Class=Class,MetaClass=XDOTZCharacters.HumanPawnBase,Description="EnricoMarini")
+Object=(Name=REHumans4.RE1EdwardDeweyDM,Class=Class,MetaClass=XDOTZCharacters.HumanPawnBase,Description="EdwardDewey")
+Object=(Name=REHumans4.RE1KevinDooleyDM,Class=Class,MetaClass=XDOTZCharacters.HumanPawnBase,Description="KevinDooley")
+

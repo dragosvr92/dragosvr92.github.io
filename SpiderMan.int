@@ -1,0 +1,7 @@
+
+[PUBLIC]
+Object=(Name=SpiderMan.SpiderManLM,Class=Class,MetaClass=LastManINV1.LMPlayerPawnBase,Description="SpiderMan")
+
+Object=(Name=SpiderMan.SpiderManIN,Class=Class,MetaClass=TrinInvasionV3.TrinV3PlayerPawnBase,Description="SpiderMan")
+
+Object=(Name=SpiderMan.SpiderManDM,Class=Class,MetaClass=XDOTZCharacters.HumanPawnBase,Description="SpiderMan")
